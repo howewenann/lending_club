@@ -3,6 +3,9 @@ lending_club
 
 Analysis on loan default using lending club data
 
+Data Source:
+https://www.kaggle.com/puneeshk/lending-loan-club-dataset
+
 Project Organization
 ------------
 
